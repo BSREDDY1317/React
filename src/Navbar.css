@@ -1,0 +1,20 @@
+.body{
+    margin: 10px 0px;
+    background-color:rgb(35,47,62);
+   height: 50px;
+   font-weight: bold;
+}
+.navbar-brand{
+    margin-top: ;
+    color: rgb(243,59,28);
+}
+.navbar-brand:hover{
+    color: azure;
+}
+.cart{
+    margin-top:-15px;
+    text-decoration: none;
+}
+.head{
+    color: azure;
+}
